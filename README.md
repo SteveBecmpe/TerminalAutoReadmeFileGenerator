@@ -1,3 +1,61 @@
+# PROJECT=> 09 Node.js Homework: Professional README Generator
+
+## Creation Checklist
+### [] STEP 1: learn more about mark down language   
+### [] STEP 2: Complete "Getting Started" Section  
+
+	-[] Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+
+	-[] Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+
+### [] create script.js file  
+### [] setup command prompt input questions variables etc., required inputs:  
+	-[] project title  
+	-[] description   
+	-[] installation instructions  
+	-[] usage information  
+	-[] contribution guidelines  
+	-[] test instructions  
+	-[] choose license from list of options. CHECK BOX  
+	-[] GitHub Username  
+	-[] email address  
+### [] build static readme file based off input information and desired style  
+	-[] project title,this is displayed as the title of the README  
+	-[] description, installation instructions, usage information, contribution guidelines,test instructions: this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests  
+	-[] choose license from list of options. CHECK BOX: a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under  
+	-[] GitHub Username:this is added to the section of the README entitled Questions, with a link to my GitHub profile  
+	-[] email address:this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions  
+	-[] Table Of Contents as clickable links that navigate to the corresponding section of the README  
+### [] build dynamic version of static version  
+	-[] make the .md file create in proper location with proper name
+	-[] add static content into dynamic render "ADD FANCY WORDS HERE" Literal operator or something.
+
+## Deliverables Checklist
+
+[] A sample README generated using the application must be submitted. <br>
+[ ] Your GitHub repository containing your application code.<br>
+[ ] A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.<br>
+[ ] The walkthrough video must demonstrate how a user would invoke the application from the command line.<br>
+[ ] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.<br>
+[ ] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.<br>
+[ ] Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).<br>
+[X] Repository has a unique name.<br>
+[X] Repository follows best practices for file structure and naming conventions.<br>
+[X] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.<br>
+[X] Repository contains multiple descriptive commit messages.<br>
+[X] Repository contains a high-quality README with description and a link to walkthrough video.<br>
+## Submit
+[ ]  A walkthrough video demonstrating the functionality of the application.<br>
+[ ] A sample README.md file for a project repository generated using your application<br>
+[ ] The URL of the GitHub repository, with a unique name and a README describing the project<br>
+
+## Links
+* [Node.js](https://nodejs.org)
+* [markdown-it](https://www.npmjs.com/package/markdown-it)
+* [tasks.json](/docs/editor/tasks)
+
+#  
+# Given Requirements
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
