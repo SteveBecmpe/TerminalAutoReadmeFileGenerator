@@ -1,7 +1,7 @@
 {
   "name": "terminalautoreadmefilegenerator",
   "version": "1.0.0",
-  "description": "## Creation Checklist ### [] STEP 1: learn more about mark down language    ### [] STEP 2: Complete \"Getting Started\" Section",
+  "description": "## Creation Checklist ### [X] STEP 1: learn more about mark down language    ### [X] STEP 2: Complete \"Getting Started\" Section",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
