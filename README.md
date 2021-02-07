@@ -10,15 +10,15 @@
 
 ### [X] create script.js file  
 ### [] setup command prompt input questions variables etc., required inputs:  
-	-[] project title  
-	-[] description   
-	-[] installation instructions  
-	-[] usage information  
-	-[] contribution guidelines  
-	-[] test instructions  
+	-[X] project title  
+	-[X] description   
+	-[X] installation instructions  
+	-[X] usage information  
+	-[X] contribution guidelines  
+	-[X] test instructions  
 	-[] choose license from list of options. CHECK BOX  
-	-[] GitHub Username  
-	-[] email address  
+	-[X] GitHub Username  
+	-[X] email address  
 ### [X] build static readme file based off input information and desired style  
 	-[X] project title,this is displayed as the title of the README  
 	-[X] description, installation instructions, usage information, contribution guidelines,test instructions: this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests  
