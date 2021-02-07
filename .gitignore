@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# added from HW Readme.md
+.DS_Store/
