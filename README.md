@@ -9,15 +9,15 @@
 	-[X] Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
 
 ### [X] create script.js file  
-### [] setup command prompt input questions variables etc., required inputs:  
+### [X] setup command prompt input questions variables etc., required inputs:  
 	-[X] project title  
 	-[X] description   
 	-[X] installation instructions  
 	-[X] usage information  
 	-[X] contribution guidelines  
 	-[X] test instructions  
-	-[] choose license from list of options. CHECK BOX  
-	-[X] GitHub Username  
+	-[X] choose license from list of options. CHECK BOX  
+	-[X] GitHub Username
 	-[X] email address  
 ### [X] build static readme file based off input information and desired style  
 	-[X] project title,this is displayed as the title of the README  
