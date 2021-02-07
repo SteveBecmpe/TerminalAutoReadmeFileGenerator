@@ -26,33 +26,33 @@
 	-[X] GitHub Username:this is added to the section of the README entitled Questions, with a link to my GitHub profile  
 	-[X] email address:this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions  
 	-[X] Table Of Contents as clickable links that navigate to the corresponding section of the README  
-### [] build dynamic version of static version  
-	-[] make the .md file create in proper location with proper name
-	-[] add static content into dynamic render "ADD FANCY WORDS HERE" Literal operator or something.
-	-[] doublec check all deliverables from static file:
-	-[] project title,this is displayed as the title of the README  
-	-[] description, installation instructions, usage information, contribution guidelines,test instructions: this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests  
-	-[] choose license from list of options. CHECK BOX: a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under  
-	-[] GitHub Username:this is added to the section of the README entitled Questions, with a link to my GitHub profile  
-	-[] email address:this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions  
-	-[] Table Of Contents as clickable links that navigate to the corresponding section of the README
+### [X] build dynamic version of static version  
+	-[X] make the .md file create in proper location with proper name
+	-[X] add static content into dynamic render "ADD FANCY WORDS HERE" Literal operator or something.
+	-[X] double check all deliverables from static file:
+	-[X] project title,this is displayed as the title of the README  
+	-[X] description, installation instructions, usage information, contribution guidelines,test instructions: this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests  
+	-[X] choose license from list of options. CHECK BOX: a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under  
+	-[X] GitHub Username:this is added to the section of the README entitled Questions, with a link to my GitHub profile  
+	-[X] email address:this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions  
+	-[X] Table Of Contents as clickable links that navigate to the corresponding section of the README
 
 ## Deliverables Checklist
 
 [ ] A "SampleREADME.md" generated using the application must be submitted. <br>
 [ ] Your GitHub repository containing your application code.<br>
 [ ] A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.<br>
-[ ] The walkthrough video must demonstrate how a user would invoke the application from the command line.<br>
-[ ] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.<br>
-[ ] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.<br>
-[ ] Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).<br>
+-[ ] The walkthrough video must demonstrate how a user would invoke the application from the command line.<br>
+-[ ] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.<br>
+-[ ] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.<br>
+[X] Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).<br>
 [X] Repository has a unique name.<br>
 [X] Repository follows best practices for file structure and naming conventions.<br>
 [X] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.<br>
 [X] Repository contains multiple descriptive commit messages.<br>
 [X] Repository contains a high-quality README with description and a link to walkthrough video.<br>
 ## Submit
-[ ]  A walkthrough video demonstrating the functionality of the application.<br>
+[ ] A walkthrough video demonstrating the functionality of the application.<br>
 [ ] A sample README.md file for a project repository generated using your application<br>
 [ ] The URL of the GitHub repository, with a unique name and a README describing the project<br>
 
@@ -60,6 +60,11 @@
 * [Node.js](https://nodejs.org)
 * [markdown-it](https://www.npmjs.com/package/markdown-it)
 * [tasks.json](/docs/editor/tasks)
+
+
+## Contributions and References:
+* license badge information was found at https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba    
+-[Lukas Himsel](https://gist.github.com/lukas-h)   
 
 #  
 # Given Requirements
