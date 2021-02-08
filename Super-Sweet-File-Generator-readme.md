@@ -1,11 +1,11 @@
 Super-Sweet-File-Generator
  
 Table of Contents:    
-  * [Description](#Description)      
-  * [Installation Instructions](#Installation)    
-  * [Usage Information](#Usage)    
-  * [Contribution guidelines](#Contributing)    
-  * [Test Instructions](#Tests)
+  - [Description](#Description)      
+  - [Installation Instructions](#Installation)    
+  - [Usage Information](#Usage)    
+  - [Contribution guidelines](#Contributing)    
+  - [Test Instructions](#Tests)
   
   <!-- toc -->
   
