@@ -183,7 +183,7 @@ function generateMarkdown(data) {
   ### License   
   ${data.projectLicense}    
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
-  Click the license badge and it will take you to the website.     
+  Hold "Ctrl" and Click the license badge and it will take you to the website.     
   
   
   ### Contributing 
