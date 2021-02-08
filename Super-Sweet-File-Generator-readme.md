@@ -1,6 +1,6 @@
 # Super-Sweet-File-Generator
  
-## Table of Contents:    
+## Table%20of%20Contents:    
   - [Description](#Description)      
   - [Installation Instructions](#Installation)    
   - [Usage Information](#Usage)    
