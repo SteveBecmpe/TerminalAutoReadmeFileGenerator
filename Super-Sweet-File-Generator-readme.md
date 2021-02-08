@@ -12,7 +12,7 @@
   ### Description    
   This project auto generates readme files from a node terminal prompt   
 
-  - [TOC](Table%20of%20Contents:)  
+  - [TOC](##Table%20of%20Contents:)  
   
   ### Installation    
   not 100% sure how to install this, i am still learning   
@@ -40,5 +40,5 @@
   For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
   steveblackecmpe@gmail.com   
 
-- [TOC](Table%20of%20Contents:)
+- [TOC](##Table%20of%20Contents:)
     
