@@ -1,6 +1,6 @@
-Super-Sweet-File-Generator
+# Super-Sweet-File-Generator
  
-Table of Contents:    
+## Table of Contents:    
   - [Description](#Description)      
   - [Installation Instructions](#Installation)    
   - [Usage Information](#Usage)    
@@ -11,7 +11,8 @@ Table of Contents:
   
   ### Description    
   This project auto generates readme files from a node terminal prompt   
-    
+
+  - [TOC](#Table%20of%20Contents:)  
   
   ### Installation    
   not 100% sure how to install this, i am still learning   
@@ -38,4 +39,6 @@ Table of Contents:
   GitHub: https://github.com/SteveBecmpe     
   For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
   steveblackecmpe@gmail.com   
+
+- [TOC](#Table%20of%20Contents:)
     
