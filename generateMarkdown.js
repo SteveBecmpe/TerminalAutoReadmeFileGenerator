@@ -162,50 +162,43 @@ function generateMarkdown(data) {
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
 
   ### Table of Contents:
-  -[Description](###Description)      
-  -[Installation Instructions](###Installation)    
-  -[Usage Information](###Usage)    
-  -[Contribution guidelines](###Contributing)    
-  -[Test Instructions](###Tests)
+  -[Description](#Description)      
+  -[Installation Instructions](#Installation)    
+  -[Usage Information](#Usage)    
+  -[Contribution guidelines](#Contributing)    
+  -[Test Instructions](#Tests)
   
   ### Description    
   ${data.projectDescription}   
-  
-  -[Table Of Contents](###Table%20of%20Contents:)  
+    
   
   ### Installation    
   ${data.projectInstall}   
-  
-  -[Table Of Contents](###Table%20of%20Contents:)  
+    
   
   ### Usage    
   ${data.projectUsage}   
-
-  -[Table Of Contents](###Table%20of%20Contents:)  
+  
   
   ### License   
   ${data.projectLicense}    
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
   Click the license badge and it will take you to the website.     
-
-  -[Table Of Contents](###Table%20of%20Contents:)  
+  
   
   ### Contributing 
   ${data.projectContribution}   
-  
-  -[Table Of Contents](###Table%20of%20Contents:)  
+    
   
   ### Tests       
   ${data.projectTest}    
-
-  -[Table Of Contents](###Table%20of%20Contents:)  
+  
   
   ### Questions: 
   GitHub: https://github.com/${data.projectGHusername}     
   For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
   ${data.projectEmail}        
-  
-  -[Table Of Contents](###Table%20of%20Contents:)  
+    
 `;
 }
 
