@@ -7,6 +7,8 @@ Table of Contents:
   -[Contribution guidelines](##Contributing)    
   -[Test Instructions](##Tests)
   
+  <!-- toc -->
+  
   ### Description    
   This project auto generates readme files from a node terminal prompt   
     
