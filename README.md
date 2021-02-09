@@ -9,10 +9,10 @@ NOTE: the micro phone was not working when the video was made. by the time it wa
 This video shows the command line (terminal) syntax needed to start running the code.     
 The name of the project is the first "ask". The repo contains a "Sample-readme.md". This readme was generated using this code with "Sample" as the project name.    
 All sections of user specific content is filled with Lorem data. The Github user name and email are real so that the links can be tested for functionality.    
-[![Silent Video of application webm version](./Assets/VideoDemoWebmVer.webm)](./Assets/VideoDemoWebmVer.webm)   
-./Assets/VideoDemoWebmVer.webm    
-[![Silent Video of application mp4 version](./Assets/VideoDemoMP4ver.mp4)](./Assets/VideoDemoMP4ver.mp4)    
-./Assets/VideoDemoMP4ver.mp4    
+[![Silent Video of application webm version](./assets/VideoDemoWebmVer.webm)](./Assets/VideoDemoWebmVer.webm)   
+./assets/VideoDemoWebmVer.webm    
+[![Silent Video of application mp4 version](./assets/VideoDemoMP4ver.mp4)](./Assets/VideoDemoMP4ver.mp4)    
+./assets/VideoDemoMP4ver.mp4    
 
 ## Images
 Originally there where table of contents links at the end of each section. This worked great in VScode but does not work in github.
@@ -22,9 +22,9 @@ Top half of the Static readme file to figure out style and functionality
 Bottom half of the Static readme file to figure out style and functionality     
 ![Static Readme File Bottom Half](./Assets/StaticReadmeFile_BottomofFile.JPG)    
 Dynamic Readme file RAW view     
-![Dynamic Readme RAW](./Assets/DynamicGenReadmeFile.JPG)    
+![Dynamic Readme RAW](./assets/DynamicGenReadmeFile.JPG)    
 Dynamic Readme file VIEW mode    
-![Dynamic Readme VIEW](./Assets/DynamicGenReadmeFile_viewMode.JPG)    
+![Dynamic Readme VIEW](./assets/DynamicGenReadmeFile_viewMode.JPG)    
 
 
 
