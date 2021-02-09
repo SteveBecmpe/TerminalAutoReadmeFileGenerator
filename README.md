@@ -1,4 +1,4 @@
-# PROJECT=> 09 Node.js Homework: Professional README Generator
+# PROJECT 09 Node.js Homework: Professional README Generator
 
 ## Link to Sample Readme file generated from program.    
 Click the link to view the [Sample Readme file](./Sample-readme.md)    
@@ -9,8 +9,10 @@ NOTE: the micro phone was not working when the video was made. by the time it wa
 This video shows the command line (terminal) syntax needed to start running the code.     
 The name of the project is the first "ask". The repo contains a "Sample-readme.md". This readme was generated using this code with "Sample" as the project name.    
 All sections of user specific content is filled with Lorem data. The Github user name and email are real so that the links can be tested for functionality.    
-[![Silent Video of application webm version](./Assets/VideoDemoWebmVer.webm)](./Assets/VideoDemoWebmVer.webm)    
-[![Silent Video of application mp4 version](./Assets/VideoDemoMP4ver.mp4)](./Assets/VideoDemoMP4ver.mp4)     
+[![Silent Video of application webm version](./Assets/VideoDemoWebmVer.webm)](./Assets/VideoDemoWebmVer.webm)   
+./Assets/VideoDemoWebmVer.webm    
+[![Silent Video of application mp4 version](./Assets/VideoDemoMP4ver.mp4)](./Assets/VideoDemoMP4ver.mp4)    
+./Assets/VideoDemoMP4ver.mp4    
 
 ## Images
 Originally there where table of contents links at the end of each section. This worked great in VScode but does not work in github.
