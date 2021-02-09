@@ -18,9 +18,9 @@ All sections of user specific content is filled with Lorem data. The Github user
 Originally there where table of contents links at the end of each section. This worked great in VScode but does not work in github.
 Was not able to figure out how to make github do this so it was removed from the final version but shows up in the images below. 
 Top half of the Static readme file to figure out style and functionality       
-![Static Readme File Top Half](./Assets/StaticReadmeFile_TopofFile.JPG)    
+![Static Readme File Top Half](./assets/StaticReadmeFile_TopofFile.JPG)    
 Bottom half of the Static readme file to figure out style and functionality     
-![Static Readme File Bottom Half](./Assets/StaticReadmeFile_BottomofFile.JPG)    
+![Static Readme File Bottom Half](./assets/StaticReadmeFile_BottomofFile.JPG)    
 Dynamic Readme file RAW view     
 ![Dynamic Readme RAW](./assets/DynamicGenReadmeFile.JPG)    
 Dynamic Readme file VIEW mode    
