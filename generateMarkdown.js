@@ -168,33 +168,33 @@ function generateMarkdown(data) {
   -[Contribution guidelines](#Contributing)    
   -[Test Instructions](#Tests)
   
-  ### Description    
+  ## Description    
   ${data.projectDescription}   
     
   
-  ### Installation    
+  ## Installation    
   ${data.projectInstall}   
     
   
-  ### Usage    
+  ## Usage    
   ${data.projectUsage}   
   
   
-  ### License   
+  ## License   
   ${data.projectLicense}    
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
   Hold "Ctrl" and Click the license badge and it will take you to the website.     
   
   
-  ### Contributing 
+  ## Contributing 
   ${data.projectContribution}   
     
   
-  ### Tests       
+  ## Tests       
   ${data.projectTest}    
   
   
-  ### Questions: 
+  ## Questions: 
   GitHub: https://github.com/${data.projectGHusername}     
   For issues that are not covered covered here or at the GiHub repo or for more information contact me at the email address below:   
   ${data.projectEmail}        

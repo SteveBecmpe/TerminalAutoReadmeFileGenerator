@@ -1,5 +1,31 @@
 # PROJECT=> 09 Node.js Homework: Professional README Generator
 
+## Link to Sample Readme file generated from program.    
+Click the link to view the [Sample Readme file](./Sample-readme.md)    
+Click the link to view the [Static Readme file](./StaticREADME.md)    
+
+## Video showing running the program
+NOTE: the micro phone was not working when the video was made. by the time it was fixed then Screencastify wasn't playing nice.    
+This video shows the command line (terminal) syntax needed to start running the code.     
+The name of the project is the first "ask". The repo contains a "Sample-readme.md". This readme was generated using this code with "Sample" as the project name.    
+All sections of user specific content is filled with Lorem data. The Github user name and email are real so that the links can be tested for functionality.    
+[![Silent Video of application webm version](./Assets/VideoDemoWebmVer.webm)](./Assets/VideoDemoWebmVer.webm)    
+[![Silent Video of application mp4 version](./Assets/VideoDemoMP4ver.mp4)](./Assets/VideoDemoMP4ver.mp4)     
+
+## Images
+Originally there where table of contents links at the end of each section. This worked great in VScode but does not work in github.
+Was not able to figure out how to make github do this so it was removed from the final version but shows up in the images below. 
+Top half of the Static readme file to figure out style and functionality       
+![Static Readme File Top Half](./Assets/StaticReadmeFile_TopofFile.JPG)    
+Bottom half of the Static readme file to figure out style and functionality     
+![Static Readme File Bottom Half](./Assets/StaticReadmeFile_BottomofFile.JPG)    
+Dynamic Readme file RAW view     
+![Dynamic Readme RAW](./Assets/DynamicGenReadmeFile.JPG)    
+Dynamic Readme file VIEW mode    
+![Dynamic Readme VIEW](./Assets/DynamicGenReadmeFile_viewMode.JPG)    
+
+
+
 ## Creation Checklist
 ### [X] STEP 1: learn more about mark down language   
 ### [X] STEP 2: Complete "Getting Started" Section  
@@ -39,12 +65,12 @@
 
 ## Deliverables Checklist
 
-[ ] A "SampleREADME.md" generated using the application must be submitted. <br>
-[ ] Your GitHub repository containing your application code.<br>
-[ ] A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.<br>
--[ ] The walkthrough video must demonstrate how a user would invoke the application from the command line.<br>
--[ ] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.<br>
--[ ] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.<br>
+[X] A "SampleREADME.md" generated using the application must be submitted. <br>
+[X] Your GitHub repository containing your application code.<br>
+[X] A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.<br>
+-[X] The walkthrough video must demonstrate how a user would invoke the application from the command line.<br>
+-[X] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.<br>
+-[X] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.<br>
 [X] Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).<br>
 [X] Repository has a unique name.<br>
 [X] Repository follows best practices for file structure and naming conventions.<br>
@@ -52,9 +78,9 @@
 [X] Repository contains multiple descriptive commit messages.<br>
 [X] Repository contains a high-quality README with description and a link to walkthrough video.<br>
 ## Submit
-[ ] A walkthrough video demonstrating the functionality of the application.<br>
-[ ] A sample README.md file for a project repository generated using your application<br>
-[ ] The URL of the GitHub repository, with a unique name and a README describing the project<br>
+[X] A walkthrough video demonstrating the functionality of the application.<br>
+[X] A sample README.md file for a project repository generated using your application<br>
+[X] The URL of the GitHub repository, with a unique name and a README describing the project<br>
 
 ## Links
 * [Node.js](https://nodejs.org)
@@ -66,7 +92,7 @@
 * license badge information was found at https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba    
 -[Lukas Himsel](https://gist.github.com/lukas-h)   
 
-#  
+
 # Given Requirements
 # 09 Node.js Homework: Professional README Generator
 
